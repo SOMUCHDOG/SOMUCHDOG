@@ -22,6 +22,8 @@ HTML/CSS/JS,
 NextJS,
 Go.
 
+Top 6% of users on TryHackMe.com
+
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical) -->
 
 🌱 I am someone who strives to learn the core fundamentals of programs, and I am able to pick up new languages quickly.
