@@ -22,7 +22,7 @@ HTML/CSS/JS,
 NextJS,
 Go.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical) -->
 
 🌱 I am someone who strives to learn the core fundamentals of programs, and I am able to pick up new languages quickly.
 Currently, I am developing skills in C-programming and Rust to gain a better understanding of operating systems and functional programming design.
