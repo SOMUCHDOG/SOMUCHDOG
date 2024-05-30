@@ -58,6 +58,9 @@ An interactive app for classroom participation. System design inspired by Jackbo
 # Keystroke Dynamics
 A SaaS product providing ML identity detection with machine learning. Private Repo, work in progress.
 
+# xJoin RAG architectures and IaC
+A Senior Cloud Security Engineer friend of mine was finding success doing contracts to develop private LLMs with RAG architectures. I offered to lend a hand in exchange for mentorship. 
+
 <!--
 **SOMUCHDOG/SOMUCHDOG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
