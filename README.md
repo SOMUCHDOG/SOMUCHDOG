@@ -51,16 +51,6 @@ A public-facing API for Sellers to manage e-commerce listings, orders, and shipp
 
 # ChatterQuant data dashboard
 A contract development gig where I created a NextJS data dashboard with Tradingview widgets.
-
-# Allinfavor.org
-An interactive app for classroom participation. System design inspired by Jackbox games, allowing students to participate in classroom discussion via their phones and a room code on the website.
-
-# Keystroke Dynamics
-A SaaS product providing ML identity detection with machine learning. Private Repo, work in progress.
-
-# xJoin RAG architectures and IaC
-A Senior Cloud Security Engineer friend of mine was finding success doing contracts to develop private LLMs with RAG architectures. I offered to lend a hand in exchange for mentorship. 
-
 <!--
 **SOMUCHDOG/SOMUCHDOG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
