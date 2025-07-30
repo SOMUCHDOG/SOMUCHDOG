@@ -1,20 +1,10 @@
 # Hi there, I'm Casey 👋
 
-## 🚀 About Me
-I'm a passionate Software Engineer from Boise, ID.
-I really enjoy programming and software development, specifically in the domain of CyberSecurity.
-
-I attended Boise State University and graduated with my B.S. in Games, Interactive Media, and Mobile (GIMM) in December 2021.
-In my time at Boise State, I worked on the GIMM development team where I developed multiple applications. (More about those below!)
-Currently, I work as a Software Engineer full-time and I am working on personal projects and software consulting after work.
-
-My primary side project at the moment is called Keystroke Dynamics. The purpose is to improve Identity security with ML, by training the model to identify
-the user by subconscious habits with their typing and session data - Without the use of personally identifiable information (PII)
-
-When I need a break from the stress of coding, I love to learn more about all sorts of technology and spend time with my family.
+I am someone who strives to learn the core fundamentals of programs, and I am able to pick up new languages quickly.
+Currently, I am developing skills in C-programming and Go to gain a better understanding of operating systems and functional programming design.
 
 ## 🛠 Skills
-C# ASP.NET, Linux, Penetration Testing, Security Audits, Cloud Architecture, Python
+C# .Net, VB.NET, Shell scripting, Linux, Penetration Testing, Security Audits, Cloud Architecture, Python
 
 Additionally, I have applicable project experience with:
 Python,
@@ -24,10 +14,6 @@ NextJS
 Top 6% of users on TryHackMe.com
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical) -->
-
-🌱 I am someone who strives to learn the core fundamentals of programs, and I am able to pick up new languages quickly.
-Currently, I am developing skills in C-programming and Go to gain a better understanding of operating systems and functional programming design.
-Additionally, I am pursuing certifications in security - Google Cybersecurity Professional and CompTIA Security+
 
 ## 💻 Projects
 
