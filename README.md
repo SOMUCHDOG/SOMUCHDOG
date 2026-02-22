@@ -18,7 +18,7 @@ Internal Platforms · Secure Delivery · Systems at Scale
 ## Platform Capabilities
 
 **Infrastructure & Orchestration**  
-Kubernetes · Docker/Podman · GitHub Actions · Azure · IaC  
+Kubernetes · Docker/Podman · GitHub Actions · Azure Pipelines · IaC · CI/CD
 
 **Governance & Platform Delivery Control**  
 GitHub Enterprise Administration · Policy as Code · Package Feeds · Common APIs
